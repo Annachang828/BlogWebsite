@@ -7,7 +7,7 @@
 </p><br>
 <h3 align="left">Web Site Plan</h3>
 <p align="left">
-  <img src="info/WebSitePlan.png" width="650" />
+  <img src="info/WebSitePlan.png" width="450" />
 </p><br>
 <h3 align="left">How it looks like?</h3>
 <p align="left">
